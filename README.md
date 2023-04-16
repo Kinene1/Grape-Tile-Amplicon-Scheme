@@ -1,5 +1,5 @@
 # Grape-Tiled-Amplicon-Scheme
-Tiled targeted amplicon scheme is a Tiled primer scheme for simultaneous detection of 11 grapevine viruses:
+Tiled targeted amplicon scheme is a primer scheme for simultaneous detection of 11 grapevine viruses:
 The targeted grapevine viruses are litsted as follow.
 1. Grapevine Leafroll aaaociated Virus 1 (GLRaV-1)
 2. Grapevine Leafroll aaaociated Virus 2 (GLRaV-2)
