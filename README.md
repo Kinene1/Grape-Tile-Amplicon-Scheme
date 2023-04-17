@@ -13,10 +13,10 @@ The targeted grapevine viruses are litsted as follow.
 10. Grapevine Fleck Virus (GFkV)
 11. Grapevine Rupestris Stem Pitting assocciated Virus (GRSPaV)
 
-This primer scheme https://github.com/Kinene1/Grape-Tile-Amplicon-Scheme/tree/main/primer-scheme/Grape/Tile/V2 is to used with the **targted amplicon sequencing assy for simultaneous detection of eleven grapevine viruses assay** link..
+This primer scheme https://github.com/Kinene1/Grape-Tile-Amplicon-Scheme/tree/main/primer-scheme/Grape/Tile/V2 is to used with the **targted amplicon sequencing assay for simultaneous detection of eleven grapevine viruses assay** link..
 
 ## Data analysis (how to use the primer scheme) 
-We recomened using the InterArtic wrapper created by Ferguson et al 2022 and our primer scheme. Alternatvely one can map raw reads directly to the reference provided in our customised primer scheme. 
+We recomened using the [InterArtic wrapper] (https://github.com/Psy-Fer/interARTIC) created by Ferguson et al 2022 and our primer scheme. Alternatvely one can map raw reads directly to the reference provided in our customised primer scheme. 
 
 ### Using the InterArtic wrappper. 
 The InterArtic uses bioinformatics resources from the ARTIC Network and was originally created to analyse CoV-2 but it is also ** suitable for analysis of amplicon scheme like the ones presented here (link)
