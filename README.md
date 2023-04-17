@@ -26,22 +26,22 @@ Install the [InterArtic wrapper](https://github.com/Psy-Fer/interARTIC) and run 
 
 ### Step 2: 
 Initialize InterArtic,  open the interactive web page and select the location of the input data.
-- (i) Enter the base file path where your input data is located. 
-- (ii) Enter the base file path where your sample-barcode.CSV files are located. Information on how to creat the sample-barcode file can be found [here](https://psy-fer.github.io/interARTIC/usage/#configuring-interartic)
+- (i) Enter the base file path where your input data is located. **Note**: The data structure from your MinION device should be maintained, for more information click [here](https://psy-fer.github.io/interARTIC/usage/#structure-of-input-data). 
+- (ii) Enter the base file path where your sample-barcode.CSV files are located. Information on how to creat the sample-barcode file can be found [here](https://psy-fer.github.io/interARTIC/usage/#sample-barcode-manifest-file).
 - (iii) Click confirm. 
 - (iV) Click add a job.
 
 ### Step 3: 
 You will now see a page with  tittle **Prepare your InterARTIC job** . Lets put in the required job parameters. 
 - (a) Enter a job name, this could be anything related to your experiement /project samples
-- (b) Select te input data directory for your experiement, this is the experimental group name that you used on the MinION device. 
-- (c) Select multiple samples if you used more than one barcode otherwise single samples
-- (d) Enter the name of the output folder, use any name of your choice. Note: if you submited a job and it failed or passed you may need to overide the data or use a different folder name. 
-- (e) Enter the primer-scheme top directory. In my case the top directory is Grape, therefore I would enter the path to Grape as: /Kinene1/Grape-Tile-Amplicon-Scheme/tree/main/primer-scheme/Grape. Your path will be different from this depending on the location of the primer-scheme on your local machine. 
+- (b) Select the input data directory for your experiement, this is the experimental group name that you used on the MinION device. 
+- (c) Select multiple samples if you used more than one barcode otherwise single sample.
+- (d) Enter the name of the output folder, use any name of your choice. **Note**: if you submited a job and it failed or passed you may need to overide the data or use a different folder name. 
+- (e) Enter the primer-scheme top directory. In my case the top directory is Grape, therefore I would enter the path to Grape as: /Kinene1/Grape-Tile-Amplicon-Scheme/tree/main/primer-scheme/Grape. Your path will be different from this, it will depending on the location of the primer-scheme on your local machine. 
 - (f) Enter the primer-schme name, in this case use Tile/V2
-- (e) Select Already demultiplex with guppy if you did this on the MinION, I recommend doing this on the MinION device. 
-- (g) Select the library preparation kit that you used. in this case we used the Rapid library prep kit
-- (h) You can set the minimum length and maximum length, Note this will depend on your product size. if your product size is 1500 then your max can be 2000. Otherwise your min should be lower than the smallest product size. 
+- (e) Select "Already demultiplex with guppy" if you did this on the MinION, I recommend doing this on the MinION device. 
+- (g) Select the library preparation kit that you used. In this case we used the Rapid library prep kit.
+- (h) You can set the minimum length and maximum length, Note this will depend on your product size. If your product size is 1500 then your max can be 2000. Otherwise your min should be lower than the smallest product size. 
 
 ### Step 4:
 - Submit the job. 
