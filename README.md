@@ -19,7 +19,7 @@ Our customised [primer scheme](https://github.com/Kinene1/Grape-Tile-Amplicon-Sc
 We recomened using the [InterArtic wrapper](https://github.com/Psy-Fer/interARTIC) created by Ferguson et al 2022 and our primer scheme. Alternatvely one can map raw reads directly to the reference provided in our customised primer scheme using minimap2. 
 
 ### Using the InterArtic wrappper. 
-The [InterArtic wrapper](https://github.com/Psy-Fer/interARTIC) uses bioinformatics resources from the [ARTIC Network](https://github.com/artic-network/artic-ncov2019) and was originally created to analyse COVID-19 genomes but it is also **suitable for analysis of amplicon schemes like the ones presented here (link)**
+The [InterArtic wrapper](https://github.com/Psy-Fer/interARTIC) uses bioinformatics resources from the [ARTIC Network](https://github.com/artic-network/artic-ncov2019) and was originally created to analyse COVID-19 genomes but it is also **suitable for analysis of amplicon schemes like the one presented here (link)**
 
 ### Step 1: 
 Install the [InterArtic wrapper](https://github.com/Psy-Fer/interARTIC) and run the test data set provided by Ferguson et al 2022  team. 
