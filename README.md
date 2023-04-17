@@ -26,14 +26,14 @@ Install the [InterArtic wrapper](https://github.com/Psy-Fer/interARTIC) and run 
 
 ### Step 2: 
 Initial InterArtic,  open the interactive web page and select the location of the input data
-(i) Enter the base file path where your input data is located 
-(ii) Enter the base file path where your sample-barcode CSV files are located. 
-(iii) Click confirm. 
-(iV) click add a job
+(i). Enter the base file path where your input data is located 
+(ii). Enter the base file path where your sample-barcode CSV files are located. 
+(iii). Click confirm. 
+(iV). click add a job
 
 ## Step 3: 
 You will now see a page tittle with **Prepare your InterARTIC job** . Let put in the required job parameters. 
-(a) 
+(a). 
 
 
 
