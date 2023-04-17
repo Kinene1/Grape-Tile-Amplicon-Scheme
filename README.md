@@ -31,9 +31,22 @@ Initial InterArtic,  open the interactive web page and select the location of th
 (iii). Click confirm. 
 (iV). click add a job.
 
-## Step 3: 
+### Step 3: 
 You will now see a page tittle with **Prepare your InterARTIC job** . Let put in the required job parameters. 
-(a). 
+(a). Enter a job name, this could be anything related to your experiement /project samples
+(b). Select te input data directory for your experiement, this is the experimental group name that you used on the MinION device. 
+(c). select multiple samples if you used more than one barcode otherwise single samples
+(d). Enter the name of the output folder, use any name of your choice. Note if you have submited a job and it failed or passed you may need to overide the data or use a different folder name. 
+(e). Enter the primer scheme top directory. In my case the top directory is Grape, therefore I will enter the path to Grape as: /Kinene1/Grape-Tile-Amplicon-Scheme/tree/main/primer-scheme/Grape. Your path will be different from this depending on the local of the primer-scheme on your local machine. 
+(f). Enter the primer schme name, in this case use Tile/V2
+(e). Select Already demultiplex with guppy if you did this on the MinION, I recommend doing this on the MinION device. 
+(g). Select the library preparation kit that you used. in this case we used the Rapid library prep kit
+(h). You can set the minimum length and maximum length, Note this will depend on your product size. if your product size is 1500 then your max can be 2000. Otherwise your min should be lower than the smallest product size. 
+
+### Step 4:
+Submit the job. 
+**Note** for more information on how to set the InterARtic paramters follow the this link https://psy-fer.github.io/interARTIC/usage/
+
 
 
 
