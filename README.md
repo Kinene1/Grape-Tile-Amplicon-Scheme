@@ -25,11 +25,11 @@ The [InterArtic wrapper](https://github.com/Psy-Fer/interARTIC) uses bioinformat
 Install the [InterArtic wrapper](https://github.com/Psy-Fer/interARTIC) and run the test data set provided by Ferguson et al 2022  team. 
 
 ### Step 2: 
-Initial InterArtic,  open the interactive web page and select the location of the input data
-(i). Enter the base file path where your input data is located 
+Initial InterArtic,  open the interactive web page and select the location of the input data.
+(i). Enter the base file path where your input data is located. 
 (ii). Enter the base file path where your sample-barcode CSV files are located. 
 (iii). Click confirm. 
-(iV). click add a job
+(iV). click add a job.
 
 ## Step 3: 
 You will now see a page tittle with **Prepare your InterARTIC job** . Let put in the required job parameters. 
