@@ -47,7 +47,9 @@ You will now see a page with  tittle **Prepare your InterARTIC job** . Lets put 
 - Submit the job. 
 - **Note** : for more information on how to set the InterARtic paramters follow the this link https://psy-fer.github.io/interARTIC/usage/
 
-![the tittle](https://github.com/Kinene1/Grape-Tile-Amplicon-Scheme/blob/main/Table%20of%20ref.png)
+![The table showing the order of amplicons](https://github.com/Kinene1/Grape-Tile-Amplicon-Scheme/blob/main/Table%20of%20ref.png)
+## Below is an example of how the output would be interpreted if a single sample had all the eleven virueses 
+![the output_example](https://github.com/Kinene1/Grape-Tile-Amplicon-Scheme/blob/main/output_example.png)
 
 
 # References 
