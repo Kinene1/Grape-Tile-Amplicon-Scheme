@@ -47,7 +47,7 @@ You will now see a page with  tittle **Prepare your InterARTIC job** . Lets put 
 - Submit the job. 
 - **Note** : for more information on how to set the InterARtic paramters follow the this link https://psy-fer.github.io/interARTIC/usage/
 
-
+![the tittle](https://github.com/Kinene1/Grape-Tile-Amplicon-Scheme/blob/main/Table%20of%20ref.png)
 
 
 # References 
